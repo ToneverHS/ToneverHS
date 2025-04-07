@@ -1,16 +1,21 @@
-## Hi there 👋
+Olá! Eu sou Everton Silva 👋
+Atualmente estou me dedicando ao aprendizado e desenvolvimento de projetos com foco em front-end e experiência do usuário. Estudo HTML, CSS, JavaScript, com uma atenção especial para UI/UX, buscando criar interfaces consistentes com boas práticas de design, acessíveis e funcionais.
 
-<!--
-**ToneverHS/ToneverHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Meus estudos incluem:
 
-Here are some ideas to get you started:
+🌐 HTML, CSS e JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 UI/UX Design — foco em usabilidade e design centrado no usuário
+
+🛠️ Git e GitHub — controle de versão e colaboração
+
+🔄 Em constante evolução:
+Busco aplicar meus conhecimentos em projetos práticos, aprender com a comunidade e melhorar a cada dia.
+
+📫 Vamos nos conectar?
+
+LinkedIn: [Seu LinkedIn]
+
+Email: toneverhs@gmail.com
+
+Portfólio: [Se tiver]

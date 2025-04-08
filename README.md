@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Atualmente estou me dedicando ao aprendizado e desenvolvimento de projetos com foco em front-end e experiência do usuário. Estudo HTML, CSS, JavaScript, com uma atenção especial para UI/UX, buscando criar interfaces consistentes com boas práticas de design, acessíveis e funcionais.</p>
+<p align="left">Atualmente estou me dedicando ao aprendizado e desenvolvimento de projetos com foco em front-end e experiência do usuário. Estudo HTML, CSS, JavaScript, com uma atenção especial para UI/UX, buscando criar interfaces acessíveis, funcionais e consistentes com boas práticas de design.</p>
 
 ###
 

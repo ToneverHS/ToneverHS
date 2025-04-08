@@ -27,3 +27,11 @@
 <p align="left">🎯 Meus estudos incluem:<br><br>🌐 HTML, CSS e JavaScript<br><br>🎨 UI/UX Design — foco em usabilidade e design centrado no usuário<br><br>🛠️ Git e GitHub — controle de versão e colaboração<br><br>🔄 Em constante evolução:<br>Busco aplicar meus conhecimentos em projetos práticos, aprender com a comunidade e melhorar a cada dia.<br><br>📫 Vamos nos conectar?<br><br>LinkedIn: www.linkedin.com/in/everton-silva-b7928935b<br><br>Email: toneverhs@gmail.com</p>
 
 ###
+
+<img src="https://raw.githubusercontent.com/ToneverHS/ToneverHS/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">🎯 Meus estudos incluem:<br><br>🌐 HTML, CSS e JavaScript<br><br>🎨 UI/UX Design — foco em usabilidade e design centrado no usuário<br><br>🛠️ Git e GitHub — controle de versão e colaboração<br><br>🔄 Em constante evolução:<br>Busco aplicar meus conhecimentos em projetos práticos, aprender com a comunidade e melhorar a cada dia.<br><br>📫 Vamos nos conectar?<br><br>LinkedIn: www.linkedin.com/in/everton-silva-b7928935b<br><br>Email: toneverhs@gmail.com</p>
+
+###
